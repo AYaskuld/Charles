@@ -1,2 +1,2 @@
 # Charles
-Description of functionality and usage examples.
+Functional description and usage examples.
